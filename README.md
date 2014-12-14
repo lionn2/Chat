@@ -1,4 +1,4 @@
 Chat
 ====
 
-Python + Ajax Simple Chat
+Node.js + Ajax Simple Chat
